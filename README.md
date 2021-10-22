@@ -1,5 +1,5 @@
 # D365Batch.DownloadFileFieldData
-ファイルタイプ項目のデータをローカルに一括ダウンロードする(Bulk download data from a dynamics365 file filed)
+Dynamics365 ファイルタイプ項目のデータをローカルに一括ダウンロードする(Bulk download data from a dynamics365 file filed)
 
 ## ■既存仕様：
 # テーブル：学生台帳（pas_tbl_student）
