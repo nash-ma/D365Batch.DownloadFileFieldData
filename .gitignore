@@ -1,0 +1,9 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+*.json
+/.vs
+/D365Batch.DownloadFileFieldData/.vs/D365Batch.DownloadFileFieldData/v16
+/D365Batch.DownloadFileFieldData/bin/Debug
+/D365Batch.DownloadFileFieldData/obj/Debug
