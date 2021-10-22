@@ -52,6 +52,10 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>dll\Microsoft.Crm.Sdk.Proxy.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.IdentityModel.Clients.ActiveDirectory, Version=5.2.8.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\Microsoft.IdentityModel.Clients.ActiveDirectory.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.Xrm.Sdk, Version=9.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>dll\Microsoft.Xrm.Sdk.dll</HintPath>
@@ -92,6 +96,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="dll\Microsoft.Crm.Sdk.Proxy.dll" />
+    <Content Include="dll\Microsoft.IdentityModel.Clients.ActiveDirectory.dll" />
     <Content Include="dll\Microsoft.Xrm.Sdk.dll" />
     <Content Include="dll\Microsoft.Xrm.Tooling.Connector.dll" />
   </ItemGroup>
